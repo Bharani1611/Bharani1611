@@ -7,12 +7,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bharani1611&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bharani1611&theme=gotham&hide_border=false)<br/>
+
+![](https://leetcard.jacoblin.cool/bharanielearning?ext=activity)
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharani1611&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## 🏆 Leet code 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/bharanielearning?theme=unicorn)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bharani1611&theme=radical&no-frame=false&no-bg=true&margin-w=4)
